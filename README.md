@@ -40,11 +40,17 @@ The website is structured into distinct, dedicated pages with their own independ
 
 ---
 
-## 🌐 Live URLs:
-- **Home:** [https://2841a07cb148fb.lhr.life/](https://2841a07cb148fb.lhr.life/)
-- **About Us:** [https://2841a07cb148fb.lhr.life/about.html](https://2841a07cb148fb.lhr.life/about.html)
-- **Services:** [https://2841a07cb148fb.lhr.life/services.html](https://2841a07cb148fb.lhr.life/services.html)
-- **Veterinarians:** [https://2841a07cb148fb.lhr.life/doctors.html](https://2841a07cb148fb.lhr.life/doctors.html)
-- **Gallery:** [https://2841a07cb148fb.lhr.life/gallery.html](https://2841a07cb148fb.lhr.life/gallery.html)
-- **Contact:** [https://2841a07cb148fb.lhr.life/contact.html](https://2841a07cb148fb.lhr.life/contact.html)
-- **Privacy:** [https://2841a07cb148fb.lhr.life/privacy.html](https://2841a07cb148fb.lhr.life/privacy.html)
+## 🌐 Live Website (GitHub Pages):
+- **Live Website:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/](https://malikfaisalawan1.github.io/anatomy-pets-clinic/)
+- **About Us:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/about.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/about.html)
+- **Services:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/services.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/services.html)
+- **Veterinarians:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/doctors.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/doctors.html)
+- **Gallery:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/gallery.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/gallery.html)
+- **Contact:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/contact.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/contact.html)
+- **Privacy Policy:** [https://malikfaisalawan1.github.io/anatomy-pets-clinic/privacy.html](https://malikfaisalawan1.github.io/anatomy-pets-clinic/privacy.html)
+
+---
+
+## 💻 GitHub Repository:
+- **Repo URL:** [https://github.com/malikfaisalawan1/anatomy-pets-clinic](https://github.com/malikfaisalawan1/anatomy-pets-clinic)
+
